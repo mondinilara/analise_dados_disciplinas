@@ -83,6 +83,6 @@ Clique em Runtime → Run all
 ```
 
 ## Autores
-Iago Garcia Vargas
-Lara Mondini Martins
-Dâmaris Suelen Silva
+- Iago Garcia Vargas
+- Lara Mondini Martins
+- Dâmaris Suelen Silva
